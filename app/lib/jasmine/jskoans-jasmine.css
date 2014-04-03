@@ -1,11 +1,17 @@
 body {
   font-family: "Helvetica Neue Light", "Lucida Grande", "Calibri", "Arial", sans-serif;
+  background: #EFF0E3;
 }
 
 h1 {
-  text-align: center;
+  text-align: left;
   font-weight: bold;
-  color: #78f;
+  color: #000;
+  font-family: 'Eagle Lake', cursive;
+}
+
+.zen {
+  float: right;
 }
 
 .jasmine_reporter a:visited, .jasmine_reporter a {
